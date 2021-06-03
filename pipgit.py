@@ -1,6 +1,7 @@
 print('enter any num')
 n=int(input())
 if n%2==0:
-    print('even')
+    print('even number')
 else:
-    print('odd')
+    print('odd number')
+print("first commit")
